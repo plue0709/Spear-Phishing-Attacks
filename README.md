@@ -44,9 +44,13 @@
 
 > Không khó để phòng tránh Spear Phishing:
 
-	+ Luôn tỉnh táo với những Email có chứa tệp đính kèm hoặc các đường link đi kèm, xác minh rõ Email gửi đến được gửi từ ai, chắc chắn sự xác thực của Email.
+	+ Luôn tỉnh táo với những Email có chứa tệp đính kèm hoặc các đường link đi kèm, xác minh rõ Email gửi đến được gửi từ ai, 
+	chắc chắn sự xác thực của Email.
   
-	+ Chỉ chia sẻ những gì cần thiết lên cách nền tảng mạng xã hội công khai, không nên bị lộ quá nhiều thông tin, dữ liệu của bản thân. Ví dụ bạn chỉ nên chia sẻ đó là ảnh của chiếc điện thoại mới vừa mua và đăng thông tin đó, thay vì thêm các chi tiết như bạn mua nó từ tổ chức XYZ, vào một ngày nào đó cụ thể.
+	+ Chỉ chia sẻ những gì cần thiết lên cách nền tảng mạng xã hội công khai, không nên bị lộ quá nhiều thông tin, dữ liệu của bản thân. 
+	Ví dụ bạn chỉ nên chia sẻ đó là ảnh của chiếc điện thoại mới vừa mua và đăng thông tin đó, thay vì thêm các chi tiết như bạn mua nó từ tổ chức XYZ, 
+	vào một ngày nào đó cụ thể.
   
-	+ Luôn để ý mọi sự thay đổi của các tài khoản mạnh xã hội hay các hình thức liên lạc điện tử của bản thân. Luôn thiết lập sự an toàn cao nhất cho tài khoản.
+	+ Luôn để ý mọi sự thay đổi của các tài khoản mạnh xã hội hay các hình thức liên lạc điện tử của bản thân. 
+	Luôn thiết lập sự an toàn cao nhất cho tài khoản.
 
